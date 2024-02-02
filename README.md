@@ -1,2 +1,22 @@
-# helouts-components
-河洛项目-苏州安岭-组件（卡片配置化）版本
+# smart---河洛-苏州安岭项目
+## 1、卡片化动态配置；2、支持运行开发时候全局配置文件[./static/config.js]；3、支持build打包后动态配置文件[./dist/static/config.js]
+
+> A Vue.js project
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+```
+
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
